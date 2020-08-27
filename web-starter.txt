@@ -1,0 +1,2 @@
+This is a text for a text file for the 
+web-starter project
